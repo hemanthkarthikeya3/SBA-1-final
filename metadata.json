@@ -1,0 +1,6 @@
+{
+  "name": "Advisory AI - Small Business Banking Advisory Assistant",
+  "description": "AI-powered relationship manager advisory assistant for small business financial health, predictive cash flow, proactive risk detection, and explainable next-best-actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
